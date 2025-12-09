@@ -1,0 +1,1 @@
+hilariously inefficient Advent of Code 2025 solutions
