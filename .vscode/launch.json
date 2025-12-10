@@ -7,7 +7,7 @@
 			"request": "launch",
 			"program": "${workspaceFolder}/build/${fileBasenameNoExtension}",
 			"args": [
-				"${fileDirname}/inputs/day1.input"
+				"${workspaceFolder}/inputs/day1.input"
 			],
 			"stopAtEntry": false,
 			"cwd": "${fileDirname}",
